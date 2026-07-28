@@ -3,18 +3,69 @@
     "date": "2026-07-28",
     "stocks": [
       {
-        "stock_name": "格尔软件",
-        "stock_code": "603232",
-        "reason": "量子科技概念领涨，受D-Wave与AT&T合作催化，涨停带动板块活跃，资金聚焦新质生产力主线。",
-        "buy_price_range": "28.5-29.2",
+        "stock_name": "爱丽家居",
+        "stock_code": "603221",
+        "reason": "市场最高连板标的（6板），并购重组主线强势，资金高度聚焦，情绪溢价显著。",
+        "buy_price_range": "8.2-8.6",
         "take_profit_pct": 7,
-        "stop_loss_pct": 4,
+        "stop_loss_pct": 5,
         "expected_days": "1-3天",
+        "risk_level": "高",
+        "risk_note": "高位连板易受监管问询或情绪退潮影响。",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
+      },
+      {
+        "stock_name": "顺钠股份",
+        "stock_code": "000533",
+        "reason": "电网设备+4连板，受益于新型电力系统建设加速，板块梯队完整，量能持续放大。",
+        "buy_price_range": "4.9-5.2",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 4,
+        "expected_days": "2-3天",
         "risk_level": "中",
-        "risk_note": "题材炒作持续性存疑，需警惕次日分歧放量回落",
-        "technical_snapshot": {
-          "latest_close": 15.13,
-          "ma5": 13.65,
-          "ma10": 13.57,
-          "volume_ratio": 1.71,
-          "above_ma5": 
+        "risk_note": "需警惕连板分歧及板块轮动加速风险。",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      },
+      {
+        "stock_name": "生益科技",
+        "stock_code": "600183",
+        "reason": "松山湖第二工厂动工，聚焦AI服务器高频高速材料，直接受益国产算力基建升级与大模型硬件需求。",
+        "buy_price_range": "21.8-22.4",
+        "take_profit_pct": 8,
+        "stop_loss_pct": 5,
+        "expected_days": "3-5天",
+        "risk_level": "中",
+        "risk_note": "短期需消化大盘创业板暴跌带来的科技股抛压。",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      },
+      {
+        "stock_name": "张江高科",
+        "stock_code": "600895",
+        "reason": "上海AI核心载体，叠加杭州AI条例草案出台+雄安IPv6大模型专项行动，区域+政策双催化。",
+        "buy_price_range": "17.3-17.8",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 4,
+        "expected_days": "2-4天",
+        "risk_level": "中",
+        "risk_note": "题材联动性强，需关注午后科技板块修复力度。",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      }
+    ]
+  }
+]
