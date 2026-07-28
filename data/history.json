@@ -1,20 +1,20 @@
 [
   {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "stocks": [
       {
-        "stock_name": "中际旭创",
-        "stock_code": "300308",
-        "reason": "鸿蒙+AI光模块龙头，港股通标的，上市当日即纳入港股卖空名单，显示高关注度与流动性预期",
-        "buy_price_range": "78.5-80.2",
+        "stock_name": "格尔软件",
+        "stock_code": "603232",
+        "reason": "量子科技概念领涨，受D-Wave与AT&T合作催化，涨停带动板块活跃，资金聚焦新质生产力主线。",
+        "buy_price_range": "28.5-29.2",
         "take_profit_pct": 7,
         "stop_loss_pct": 4,
-        "expected_days": "2-4天",
+        "expected_days": "1-3天",
         "risk_level": "中",
-        "risk_note": "短期涨幅较大，需警惕获利盘兑现压力",
+        "risk_note": "题材炒作持续性存疑，需警惕次日分歧放量回落",
         "technical_snapshot": {
-          "latest_close": 1046.52,
-          "ma5": 1072.58,
-          "ma10": 1081.27,
-          "volume_ratio": 0.6,
+          "latest_close": 15.13,
+          "ma5": 13.65,
+          "ma10": 13.57,
+          "volume_ratio": 1.71,
           "above_ma5": 
