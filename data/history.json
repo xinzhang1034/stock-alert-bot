@@ -67,5 +67,23 @@
         "position_suggestion": "单只不超过总仓位 10%"
       }
     ]
-  }
-]
+  },
+  {
+    "date": "2026-07-29",
+    "stocks": [
+      {
+        "stock_name": "爱丽家居",
+        "stock_code": "603221",
+        "reason": "7连板强势龙头，并购重组题材+市场高度标杆，资金聚焦度高，短线情绪核心。",
+        "buy_price_range": "8.2-8.6",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 4,
+        "expected_days": "1-2天",
+        "risk_level": "高",
+        "risk_note": "高位接力风险大，谨防监管问询或断板负反馈。",
+        "technical_snapshot": {
+          "latest_close": 18.63,
+          "ma5": 15.54,
+          "ma10": 13.08,
+          "volume_ratio": 0.33,
+          "above_ma5": 
