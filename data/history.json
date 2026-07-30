@@ -1,17 +1,33 @@
 [
   {
-    "date": "2026-07-28",
+    "date": "2026-07-30",
     "stocks": [
       {
-        "stock_name": "爱丽家居",
-        "stock_code": "603221",
-        "reason": "市场最高连板标的（6板），并购重组主线强势，资金高度聚焦，情绪溢价显著。",
-        "buy_price_range": "8.2-8.6",
+        "stock_name": "一鸣食品",
+        "stock_code": "605179",
+        "reason": "大消费逆势领涨，3连板+食品饮料主线强化，资金聚焦防御性板块。",
+        "buy_price_range": "14.8-15.3",
         "take_profit_pct": 7,
-        "stop_loss_pct": 5,
+        "stop_loss_pct": 4,
         "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "高位连板接力风险，需警惕消费板块分化",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      },
+      {
+        "stock_name": "传智教育",
+        "stock_code": "003032",
+        "reason": "AI应用端核心4连板，政策催化+题材辨识度高，短线情绪标杆。",
+        "buy_price_range": "18.2-18.7",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 5,
+        "expected_days": "1-2天",
         "risk_level": "高",
-        "risk_note": "高位连板易受监管问询或情绪退潮影响。",
+        "risk_note": "监管敏感题材，连板高度承压，量能持续性存疑",
         "technical_snapshot": {},
         "extra_warnings": [
           "技术数据缺失，无法进行交叉验证"
@@ -19,15 +35,15 @@
         "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
       },
       {
-        "stock_name": "顺钠股份",
-        "stock_code": "000533",
-        "reason": "电网设备+4连板，受益于新型电力系统建设加速，板块梯队完整，量能持续放大。",
-        "buy_price_range": "4.9-5.2",
+        "stock_name": "明新旭腾",
+        "stock_code": "605068",
+        "reason": "机器人概念4连板，叠加汽车整车活跃（江淮汽车涨停），资金轮动补涨逻辑清晰。",
+        "buy_price_range": "22.6-23.1",
         "take_profit_pct": 6,
         "stop_loss_pct": 4,
-        "expected_days": "2-3天",
+        "expected_days": "1-3天",
         "risk_level": "中",
-        "risk_note": "需警惕连板分歧及板块轮动加速风险。",
+        "risk_note": "板块联动性弱于AI，需观察午后汽车链持续性",
         "technical_snapshot": {},
         "extra_warnings": [
           "技术数据缺失，无法进行交叉验证"
@@ -35,31 +51,31 @@
         "position_suggestion": "单只不超过总仓位 10%"
       },
       {
-        "stock_name": "生益科技",
-        "stock_code": "600183",
-        "reason": "松山湖第二工厂动工，聚焦AI服务器高频高速材料，直接受益国产算力基建升级与大模型硬件需求。",
-        "buy_price_range": "21.8-22.4",
+        "stock_name": "均瑶健康",
+        "stock_code": "605388",
+        "reason": "大消费+乳制品细分龙头，2连板且低位启动，量价配合良好，安全边际较高。",
+        "buy_price_range": "10.9-11.3",
+        "take_profit_pct": 5,
+        "stop_loss_pct": 3,
+        "expected_days": "2-3天",
+        "risk_level": "低",
+        "risk_note": "市值小弹性足，但需防范消费板块整体退潮",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 15%"
+      },
+      {
+        "stock_name": "高澜股份",
+        "stock_code": "300499",
+        "reason": "CDU液冷功率覆盖0.5-1.1MW获确认，算力基建核心受益，低位放量突破。",
+        "buy_price_range": "11.4-11.8",
         "take_profit_pct": 8,
         "stop_loss_pct": 5,
-        "expected_days": "3-5天",
-        "risk_level": "中",
-        "risk_note": "短期需消化大盘创业板暴跌带来的科技股抛压。",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 10%"
-      },
-      {
-        "stock_name": "张江高科",
-        "stock_code": "600895",
-        "reason": "上海AI核心载体，叠加杭州AI条例草案出台+雄安IPv6大模型专项行动，区域+政策双催化。",
-        "buy_price_range": "17.3-17.8",
-        "take_profit_pct": 6,
-        "stop_loss_pct": 4,
         "expected_days": "2-4天",
         "risk_level": "中",
-        "risk_note": "题材联动性强，需关注午后科技板块修复力度。",
+        "risk_note": "题材偏硬科技，需跟踪数据中心建设进度及订单落地",
         "technical_snapshot": {},
         "extra_warnings": [
           "技术数据缺失，无法进行交叉验证"
@@ -67,23 +83,5 @@
         "position_suggestion": "单只不超过总仓位 10%"
       }
     ]
-  },
-  {
-    "date": "2026-07-29",
-    "stocks": [
-      {
-        "stock_name": "爱丽家居",
-        "stock_code": "603221",
-        "reason": "7连板强势龙头，并购重组题材+市场高度标杆，资金聚焦度高，短线情绪核心。",
-        "buy_price_range": "8.2-8.6",
-        "take_profit_pct": 6,
-        "stop_loss_pct": 4,
-        "expected_days": "1-2天",
-        "risk_level": "高",
-        "risk_note": "高位接力风险大，谨防监管问询或断板负反馈。",
-        "technical_snapshot": {
-          "latest_close": 18.63,
-          "ma5": 15.54,
-          "ma10": 13.08,
-          "volume_ratio": 0.33,
-          "above_ma5": 
+  }
+]
