@@ -83,5 +83,90 @@
         "position_suggestion": "单只不超过总仓位 10%"
       }
     ]
+  },
+  {
+    "date": "2026-07-31",
+    "stocks": [
+      {
+        "stock_name": "传智教育",
+        "stock_code": "003032",
+        "reason": "AI应用龙头，5连板强势，政策支持大模型落地，资金高度聚焦",
+        "buy_price_range": "14.8-15.3",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 4,
+        "expected_days": "1-3天",
+        "risk_level": "高",
+        "risk_note": "高位连板，量能持续性存疑，谨防监管问询",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
+      },
+      {
+        "stock_name": "爱丽家居",
+        "stock_code": "603221",
+        "reason": "市场最高标9连板，并购重组催化，情绪总龙头，短线辨识度极强",
+        "buy_price_range": "11.2-11.6",
+        "take_profit_pct": 5,
+        "stop_loss_pct": 5,
+        "expected_days": "1-2天",
+        "risk_level": "高",
+        "risk_note": "严重偏离价值，监管风险与退潮杀跌压力大",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
+      },
+      {
+        "stock_name": "兆易创新",
+        "stock_code": "603986",
+        "reason": "港股存储芯片大涨带动A股映射，国产替代+设备交付催化，融资净买入居前",
+        "buy_price_range": "98.5-100.2",
+        "take_profit_pct": 7,
+        "stop_loss_pct": 4,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "半导体板块波动大，需盯住费城半导体指数及韩股联动",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      },
+      {
+        "stock_name": "云赛智联",
+        "stock_code": "600602",
+        "reason": "上海国资AI平台核心标的，受益市级AI公共平台招标落地及智能化军事体系政策驱动",
+        "buy_price_range": "10.1-10.4",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 3,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "非涨停但属AI+信创+军工信息化交叉题材，需观察午后资金回流强度",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      },
+      {
+        "stock_name": "中科曙光",
+        "stock_code": "603019",
+        "reason": "AI算力+国产服务器龙头，大模型登顶全球榜单+无人智能军事应用政策直接催化",
+        "buy_price_range": "42.6-43.3",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 4,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "机构持仓重，短期涨幅较大，需防范获利盘兑现压力",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      }
+    ]
   }
 ]
