@@ -168,5 +168,74 @@
         "position_suggestion": "单只不超过总仓位 10%"
       }
     ]
+  },
+  {
+    "date": "2026-08-03",
+    "stocks": [
+      {
+        "stock_name": "传智教育",
+        "stock_code": "003032",
+        "reason": "AI应用核心标的，6连板强势领涨，资金高度聚焦AI教育落地场景。",
+        "buy_price_range": "14.8-15.3",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 4,
+        "expected_days": "1-2天",
+        "risk_level": "高",
+        "risk_note": "高位连板溢价率高，谨防监管问询或情绪退潮。",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
+      },
+      {
+        "stock_name": "高争民爆",
+        "stock_code": "002827",
+        "reason": "控股股东变更+4连板，国企改革+民爆行业整合预期强化，量价配合良好。",
+        "buy_price_range": "16.2-16.7",
+        "take_profit_pct": 5,
+        "stop_loss_pct": 3.5,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "题材偏小众，需关注后续公告及板块持续性。",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      },
+      {
+        "stock_name": "天娱数科",
+        "stock_code": "002354",
+        "reason": "AI+游戏双主线，EA被沙特收购催化全球游戏资产重估，公司具备AIGC内容生成能力。",
+        "buy_price_range": "7.9-8.2",
+        "take_profit_pct": 7,
+        "stop_loss_pct": 4,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "前期涨幅较大，需防范科技股轮动回调风险。",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      },
+      {
+        "stock_name": "恒银科技",
+        "stock_code": "603106",
+        "reason": "AI金融终端+信创概念，2连板突破平台，叠加港股科技股大涨带动情绪。",
+        "buy_price_range": "8.1-8.4",
+        "take_profit_pct": 5,
+        "stop_loss_pct": 3,
+        "expected_days": "1-2天",
+        "risk_level": "中",
+        "risk_note": "市值小弹性大，但成交集中度待验证。",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      }
+    ]
   }
 ]
