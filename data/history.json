@@ -237,5 +237,90 @@
         "position_suggestion": "单只不超过总仓位 10%"
       }
     ]
+  },
+  {
+    "date": "2026-08-04",
+    "stocks": [
+      {
+        "stock_name": "传智教育",
+        "stock_code": "003032",
+        "reason": "AI应用端核心龙头，7连板强势，创业板领涨+题材高度辨识度高，资金聚焦明确",
+        "buy_price_range": "14.8-15.3",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 4,
+        "expected_days": "1-2天",
+        "risk_level": "高",
+        "risk_note": "高位连板溢价率高，监管风险与情绪退潮快",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
+      },
+      {
+        "stock_name": "美利云",
+        "stock_code": "000815",
+        "reason": "算力租赁主线龙头，12天7板，叠加IDC+国资背景，消息面催化持续（算电产品首发）",
+        "buy_price_range": "9.6-10.1",
+        "take_profit_pct": 7,
+        "stop_loss_pct": 5,
+        "expected_days": "2-3天",
+        "risk_level": "高",
+        "risk_note": "短期涨幅巨大，量能背离风险需警惕",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
+      },
+      {
+        "stock_name": "东山精密",
+        "stock_code": "002384",
+        "reason": "CPO+光互联双驱动，公司公告积极预研前沿光互联技术，港股中际旭创大涨映射A股弹性",
+        "buy_price_range": "22.4-22.9",
+        "take_profit_pct": 8,
+        "stop_loss_pct": 4,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "需跟踪光模块订单落地节奏，短期波动加大",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      },
+      {
+        "stock_name": "利通电子",
+        "stock_code": "603629",
+        "reason": "算力租赁+AI服务器结构件核心标的，3天2板，资金接力明显，板块梯队完整",
+        "buy_price_range": "27.5-28.2",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 4,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "市值较小，易受流动性影响，需防次日分歧",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      },
+      {
+        "stock_name": "兆易创新",
+        "stock_code": "603986",
+        "reason": "车规MCU+汽车电子国产替代加速，GD32A7适配AUTOSAR落地，港股同步大涨17%映射",
+        "buy_price_range": "85.2-86.8",
+        "take_profit_pct": 7,
+        "stop_loss_pct": 5,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "半导体板块轮动快，需关注大基金二期动向",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      }
+    ]
   }
 ]
