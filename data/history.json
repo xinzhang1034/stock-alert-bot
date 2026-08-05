@@ -322,5 +322,23 @@
         "position_suggestion": "单只不超过总仓位 10%"
       }
     ]
-  }
-]
+  },
+  {
+    "date": "2026-08-05",
+    "stocks": [
+      {
+        "stock_name": "兆易创新",
+        "stock_code": "603986",
+        "reason": "港股AI芯片股领涨，兆易创新午间涨超8%，科创50单日涨5.18%，资金聚焦算力核心标的。",
+        "buy_price_range": "128.0-132.0",
+        "take_profit_pct": 7,
+        "stop_loss_pct": 4,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "港股联动溢价不可持续，需警惕午后冲高回落",
+        "technical_snapshot": {
+          "latest_close": 381.1,
+          "ma5": 365.51,
+          "ma10": 392.52,
+          "volume_ratio": 0.7,
+          "above_ma5": 
