@@ -3,15 +3,15 @@
     "date": "2026-08-06",
     "stocks": [
       {
-        "stock_name": "温州宏丰",
-        "stock_code": "300283",
-        "reason": "定增获深交所受理，政策催化+小市值弹性强，短线资金或博弈再融资预期。",
-        "buy_price_range": "6.8-7.2",
-        "take_profit_pct": 7,
-        "stop_loss_pct": 4,
-        "expected_days": "2-4天",
+        "stock_name": "行云科技",
+        "stock_code": "300209.SZ",
+        "reason": "算力长单超154亿+客户加价扩量，订单落地驱动业绩确定性增强，资金面未见异动但逻辑硬核。",
+        "buy_price_range": "28.5-29.2",
+        "take_profit_pct": 12,
+        "stop_loss_pct": 6,
+        "expected_days": "3-5天",
         "risk_level": "中",
-        "risk_note": "审核及注册存在不确定性，需警惕政策落地不及预期。",
+        "risk_note": "次新股波动大，短期涨幅已高，需防利好兑现回落",
         "technical_snapshot": {},
         "extra_warnings": [
           "技术数据缺失，无法进行交叉验证"
@@ -19,31 +19,31 @@
         "position_suggestion": "单只不超过总仓位 10%"
       },
       {
-        "stock_name": "超研股份",
-        "stock_code": "301258",
-        "reason": "核电无损检测新应用落地，受益于新型电力系统建设加速，题材稀缺+机构关注度提升。",
-        "buy_price_range": "28.5-29.3",
-        "take_profit_pct": 6,
-        "stop_loss_pct": 5,
-        "expected_days": "1-3天",
-        "risk_level": "中",
-        "risk_note": "业务占比尚小，业绩兑现需跟踪订单落地节奏。",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 10%"
-      },
-      {
-        "stock_name": "扬电科技",
-        "stock_code": "301012",
-        "reason": "算力业务规模持续提升，叠加液冷+AI电源概念，与豪尔赛等连板股形成板块联动。",
-        "buy_price_range": "24.0-24.8",
+        "stock_name": "金徽股份",
+        "stock_code": "603132.SH",
+        "reason": "H1净利+61.5%+高分红（3.3元/10股），消费+资源双属性，龙虎榜未上榜但估值低位具补涨潜力。",
+        "buy_price_range": "15.8-16.3",
         "take_profit_pct": 8,
         "stop_loss_pct": 5,
-        "expected_days": "2-3天",
+        "expected_days": "2-4天",
+        "risk_level": "低",
+        "risk_note": "Q2环比微降，需观察后续季度持续性",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 15%"
+      },
+      {
+        "stock_name": "云南锗业",
+        "stock_code": "002428.SZ",
+        "reason": "三连板+龙虎榜双上榜，稀缺锗材料叠加AI红外+军工催化，资金高度认可，量价配合良好。",
+        "buy_price_range": "17.2-17.8",
+        "take_profit_pct": 10,
+        "stop_loss_pct": 7,
+        "expected_days": "1-3天",
         "risk_level": "高",
-        "risk_note": "算力业务占比仍低，短期情绪驱动明显，波动风险大。",
+        "risk_note": "高位连板博弈加剧，谨防监管问询或情绪退潮",
         "technical_snapshot": {},
         "extra_warnings": [
           "技术数据缺失，无法进行交叉验证"
@@ -51,20 +51,20 @@
         "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
       },
       {
-        "stock_name": "科兴相关概念股（百花医药）",
-        "stock_code": "600721",
-        "reason": "科兴狂犬疫苗获批，百花医药为科兴供应链合作方，具备疫苗CDMO逻辑，事件驱动性强。",
-        "buy_price_range": "6.2-6.6",
-        "take_profit_pct": 7,
-        "stop_loss_pct": 4,
+        "stock_name": "豪尔赛",
+        "stock_code": "002963.SZ",
+        "reason": "五连板强势龙头，光环境+AI视觉概念，涨停梯队核心，龙虎榜机构+游资共振，短线情绪标杆。",
+        "buy_price_range": "19.6-20.3",
+        "take_profit_pct": 15,
+        "stop_loss_pct": 8,
         "expected_days": "1-2天",
-        "risk_level": "中",
-        "risk_note": "未公告具体合作细节，存在信息不对称与预期差风险。",
+        "risk_level": "高",
+        "risk_note": "严重偏离均线，易受监管关注及获利盘打压",
         "technical_snapshot": {},
         "extra_warnings": [
           "技术数据缺失，无法进行交叉验证"
         ],
-        "position_suggestion": "单只不超过总仓位 10%"
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
       }
     ]
   }
