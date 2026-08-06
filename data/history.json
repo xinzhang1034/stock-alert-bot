@@ -1,134 +1,33 @@
 [
   {
-    "date": "2026-07-30",
+    "date": "2026-08-06",
     "stocks": [
       {
-        "stock_name": "一鸣食品",
-        "stock_code": "605179",
-        "reason": "大消费逆势领涨，3连板+食品饮料主线强化，资金聚焦防御性板块。",
-        "buy_price_range": "14.8-15.3",
+        "stock_name": "温州宏丰",
+        "stock_code": "300283",
+        "reason": "定增获深交所受理，政策催化+小市值弹性强，短线资金或博弈再融资预期。",
+        "buy_price_range": "6.8-7.2",
         "take_profit_pct": 7,
         "stop_loss_pct": 4,
-        "expected_days": "1-3天",
-        "risk_level": "中",
-        "risk_note": "高位连板接力风险，需警惕消费板块分化",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 10%"
-      },
-      {
-        "stock_name": "传智教育",
-        "stock_code": "003032",
-        "reason": "AI应用端核心4连板，政策催化+题材辨识度高，短线情绪标杆。",
-        "buy_price_range": "18.2-18.7",
-        "take_profit_pct": 6,
-        "stop_loss_pct": 5,
-        "expected_days": "1-2天",
-        "risk_level": "高",
-        "risk_note": "监管敏感题材，连板高度承压，量能持续性存疑",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
-      },
-      {
-        "stock_name": "明新旭腾",
-        "stock_code": "605068",
-        "reason": "机器人概念4连板，叠加汽车整车活跃（江淮汽车涨停），资金轮动补涨逻辑清晰。",
-        "buy_price_range": "22.6-23.1",
-        "take_profit_pct": 6,
-        "stop_loss_pct": 4,
-        "expected_days": "1-3天",
-        "risk_level": "中",
-        "risk_note": "板块联动性弱于AI，需观察午后汽车链持续性",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 10%"
-      },
-      {
-        "stock_name": "均瑶健康",
-        "stock_code": "605388",
-        "reason": "大消费+乳制品细分龙头，2连板且低位启动，量价配合良好，安全边际较高。",
-        "buy_price_range": "10.9-11.3",
-        "take_profit_pct": 5,
-        "stop_loss_pct": 3,
-        "expected_days": "2-3天",
-        "risk_level": "低",
-        "risk_note": "市值小弹性足，但需防范消费板块整体退潮",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 15%"
-      },
-      {
-        "stock_name": "高澜股份",
-        "stock_code": "300499",
-        "reason": "CDU液冷功率覆盖0.5-1.1MW获确认，算力基建核心受益，低位放量突破。",
-        "buy_price_range": "11.4-11.8",
-        "take_profit_pct": 8,
-        "stop_loss_pct": 5,
         "expected_days": "2-4天",
         "risk_level": "中",
-        "risk_note": "题材偏硬科技，需跟踪数据中心建设进度及订单落地",
+        "risk_note": "审核及注册存在不确定性，需警惕政策落地不及预期。",
         "technical_snapshot": {},
         "extra_warnings": [
           "技术数据缺失，无法进行交叉验证"
         ],
         "position_suggestion": "单只不超过总仓位 10%"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-31",
-    "stocks": [
+      },
       {
-        "stock_name": "传智教育",
-        "stock_code": "003032",
-        "reason": "AI应用龙头，5连板强势，政策支持大模型落地，资金高度聚焦",
-        "buy_price_range": "14.8-15.3",
+        "stock_name": "超研股份",
+        "stock_code": "301258",
+        "reason": "核电无损检测新应用落地，受益于新型电力系统建设加速，题材稀缺+机构关注度提升。",
+        "buy_price_range": "28.5-29.3",
         "take_profit_pct": 6,
-        "stop_loss_pct": 4,
+        "stop_loss_pct": 5,
         "expected_days": "1-3天",
-        "risk_level": "高",
-        "risk_note": "高位连板，量能持续性存疑，谨防监管问询",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
-      },
-      {
-        "stock_name": "爱丽家居",
-        "stock_code": "603221",
-        "reason": "市场最高标9连板，并购重组催化，情绪总龙头，短线辨识度极强",
-        "buy_price_range": "11.2-11.6",
-        "take_profit_pct": 5,
-        "stop_loss_pct": 5,
-        "expected_days": "1-2天",
-        "risk_level": "高",
-        "risk_note": "严重偏离价值，监管风险与退潮杀跌压力大",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
-      },
-      {
-        "stock_name": "兆易创新",
-        "stock_code": "603986",
-        "reason": "港股存储芯片大涨带动A股映射，国产替代+设备交付催化，融资净买入居前",
-        "buy_price_range": "98.5-100.2",
-        "take_profit_pct": 7,
-        "stop_loss_pct": 4,
-        "expected_days": "2-3天",
         "risk_level": "中",
-        "risk_note": "半导体板块波动大，需盯住费城半导体指数及韩股联动",
+        "risk_note": "业务占比尚小，业绩兑现需跟踪订单落地节奏。",
         "technical_snapshot": {},
         "extra_warnings": [
           "技术数据缺失，无法进行交叉验证"
@@ -136,185 +35,31 @@
         "position_suggestion": "单只不超过总仓位 10%"
       },
       {
-        "stock_name": "云赛智联",
-        "stock_code": "600602",
-        "reason": "上海国资AI平台核心标的，受益市级AI公共平台招标落地及智能化军事体系政策驱动",
-        "buy_price_range": "10.1-10.4",
-        "take_profit_pct": 6,
-        "stop_loss_pct": 3,
-        "expected_days": "2-3天",
-        "risk_level": "中",
-        "risk_note": "非涨停但属AI+信创+军工信息化交叉题材，需观察午后资金回流强度",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 10%"
-      },
-      {
-        "stock_name": "中科曙光",
-        "stock_code": "603019",
-        "reason": "AI算力+国产服务器龙头，大模型登顶全球榜单+无人智能军事应用政策直接催化",
-        "buy_price_range": "42.6-43.3",
-        "take_profit_pct": 6,
-        "stop_loss_pct": 4,
-        "expected_days": "2-3天",
-        "risk_level": "中",
-        "risk_note": "机构持仓重，短期涨幅较大，需防范获利盘兑现压力",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 10%"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "stocks": [
-      {
-        "stock_name": "传智教育",
-        "stock_code": "003032",
-        "reason": "AI应用核心标的，6连板强势领涨，资金高度聚焦AI教育落地场景。",
-        "buy_price_range": "14.8-15.3",
-        "take_profit_pct": 6,
-        "stop_loss_pct": 4,
-        "expected_days": "1-2天",
-        "risk_level": "高",
-        "risk_note": "高位连板溢价率高，谨防监管问询或情绪退潮。",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
-      },
-      {
-        "stock_name": "高争民爆",
-        "stock_code": "002827",
-        "reason": "控股股东变更+4连板，国企改革+民爆行业整合预期强化，量价配合良好。",
-        "buy_price_range": "16.2-16.7",
-        "take_profit_pct": 5,
-        "stop_loss_pct": 3.5,
-        "expected_days": "2-3天",
-        "risk_level": "中",
-        "risk_note": "题材偏小众，需关注后续公告及板块持续性。",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 10%"
-      },
-      {
-        "stock_name": "天娱数科",
-        "stock_code": "002354",
-        "reason": "AI+游戏双主线，EA被沙特收购催化全球游戏资产重估，公司具备AIGC内容生成能力。",
-        "buy_price_range": "7.9-8.2",
-        "take_profit_pct": 7,
-        "stop_loss_pct": 4,
-        "expected_days": "2-3天",
-        "risk_level": "中",
-        "risk_note": "前期涨幅较大，需防范科技股轮动回调风险。",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 10%"
-      },
-      {
-        "stock_name": "恒银科技",
-        "stock_code": "603106",
-        "reason": "AI金融终端+信创概念，2连板突破平台，叠加港股科技股大涨带动情绪。",
-        "buy_price_range": "8.1-8.4",
-        "take_profit_pct": 5,
-        "stop_loss_pct": 3,
-        "expected_days": "1-2天",
-        "risk_level": "中",
-        "risk_note": "市值小弹性大，但成交集中度待验证。",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 10%"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-04",
-    "stocks": [
-      {
-        "stock_name": "传智教育",
-        "stock_code": "003032",
-        "reason": "AI应用端核心龙头，7连板强势，创业板领涨+题材高度辨识度高，资金聚焦明确",
-        "buy_price_range": "14.8-15.3",
-        "take_profit_pct": 6,
-        "stop_loss_pct": 4,
-        "expected_days": "1-2天",
-        "risk_level": "高",
-        "risk_note": "高位连板溢价率高，监管风险与情绪退潮快",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
-      },
-      {
-        "stock_name": "美利云",
-        "stock_code": "000815",
-        "reason": "算力租赁主线龙头，12天7板，叠加IDC+国资背景，消息面催化持续（算电产品首发）",
-        "buy_price_range": "9.6-10.1",
-        "take_profit_pct": 7,
-        "stop_loss_pct": 5,
-        "expected_days": "2-3天",
-        "risk_level": "高",
-        "risk_note": "短期涨幅巨大，量能背离风险需警惕",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
-      },
-      {
-        "stock_name": "东山精密",
-        "stock_code": "002384",
-        "reason": "CPO+光互联双驱动，公司公告积极预研前沿光互联技术，港股中际旭创大涨映射A股弹性",
-        "buy_price_range": "22.4-22.9",
+        "stock_name": "扬电科技",
+        "stock_code": "301012",
+        "reason": "算力业务规模持续提升，叠加液冷+AI电源概念，与豪尔赛等连板股形成板块联动。",
+        "buy_price_range": "24.0-24.8",
         "take_profit_pct": 8,
-        "stop_loss_pct": 4,
-        "expected_days": "2-3天",
-        "risk_level": "中",
-        "risk_note": "需跟踪光模块订单落地节奏，短期波动加大",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 10%"
-      },
-      {
-        "stock_name": "利通电子",
-        "stock_code": "603629",
-        "reason": "算力租赁+AI服务器结构件核心标的，3天2板，资金接力明显，板块梯队完整",
-        "buy_price_range": "27.5-28.2",
-        "take_profit_pct": 6,
-        "stop_loss_pct": 4,
-        "expected_days": "1-3天",
-        "risk_level": "中",
-        "risk_note": "市值较小，易受流动性影响，需防次日分歧",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 10%"
-      },
-      {
-        "stock_name": "兆易创新",
-        "stock_code": "603986",
-        "reason": "车规MCU+汽车电子国产替代加速，GD32A7适配AUTOSAR落地，港股同步大涨17%映射",
-        "buy_price_range": "85.2-86.8",
-        "take_profit_pct": 7,
         "stop_loss_pct": 5,
         "expected_days": "2-3天",
+        "risk_level": "高",
+        "risk_note": "算力业务占比仍低，短期情绪驱动明显，波动风险大。",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
+      },
+      {
+        "stock_name": "科兴相关概念股（百花医药）",
+        "stock_code": "600721",
+        "reason": "科兴狂犬疫苗获批，百花医药为科兴供应链合作方，具备疫苗CDMO逻辑，事件驱动性强。",
+        "buy_price_range": "6.2-6.6",
+        "take_profit_pct": 7,
+        "stop_loss_pct": 4,
+        "expected_days": "1-2天",
         "risk_level": "中",
-        "risk_note": "半导体板块轮动快，需关注大基金二期动向",
+        "risk_note": "未公告具体合作细节，存在信息不对称与预期差风险。",
         "technical_snapshot": {},
         "extra_warnings": [
           "技术数据缺失，无法进行交叉验证"
@@ -322,23 +67,5 @@
         "position_suggestion": "单只不超过总仓位 10%"
       }
     ]
-  },
-  {
-    "date": "2026-08-05",
-    "stocks": [
-      {
-        "stock_name": "兆易创新",
-        "stock_code": "603986",
-        "reason": "港股AI芯片股领涨，兆易创新午间涨超8%，科创50单日涨5.18%，资金聚焦算力核心标的。",
-        "buy_price_range": "128.0-132.0",
-        "take_profit_pct": 7,
-        "stop_loss_pct": 4,
-        "expected_days": "1-3天",
-        "risk_level": "中",
-        "risk_note": "港股联动溢价不可持续，需警惕午后冲高回落",
-        "technical_snapshot": {
-          "latest_close": 381.1,
-          "ma5": 365.51,
-          "ma10": 392.52,
-          "volume_ratio": 0.7,
-          "above_ma5": 
+  }
+]
