@@ -67,5 +67,90 @@
         "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
       }
     ]
+  },
+  {
+    "date": "2026-08-07",
+    "stocks": [
+      {
+        "stock_name": "百花医药",
+        "stock_code": "600721",
+        "reason": "创新药概念4连板，板块集体爆发，外资合作催化+政策支持明确，资金高度认可。",
+        "buy_price_range": "8.2-8.6",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 4,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "高位连板分歧风险，需盯住板块梯队强度。",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      },
+      {
+        "stock_name": "宝鼎科技",
+        "stock_code": "002552",
+        "reason": "PCB概念6天5板龙头，叠加AI服务器FPC应用逻辑，量能持续放大，市场辨识度最高。",
+        "buy_price_range": "14.8-15.3",
+        "take_profit_pct": 7,
+        "stop_loss_pct": 5,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "短期涨幅过大，警惕监管问询或情绪退潮。",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      },
+      {
+        "stock_name": "凯莱英",
+        "stock_code": "002821",
+        "reason": "CRO核心标的涨停，受益跨国药企2003亿美元外部资本开支加速落地，机构持仓+弹性大。",
+        "buy_price_range": "124.5-128.0",
+        "take_profit_pct": 5,
+        "stop_loss_pct": 4,
+        "expected_days": "2-4天",
+        "risk_level": "高",
+        "risk_note": "股价高位波动剧烈，需严格按止损执行。",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
+      },
+      {
+        "stock_name": "景旺电子",
+        "stock_code": "603228",
+        "reason": "PCB板块2连板中军，AI服务器FPC应用落地验证，港股胜宏科技大涨映射，资金接力明确。",
+        "buy_price_range": "27.6-28.2",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 4,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "需观察板块持续性，避免后排补涨分化。",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      },
+      {
+        "stock_name": "药康生物",
+        "stock_code": "688046",
+        "reason": "创新药+基因编辑双热点，今日涨停且为科创板弹性标的，外资合作预期强化，换手充分。",
+        "buy_price_range": "15.9-16.4",
+        "take_profit_pct": 5,
+        "stop_loss_pct": 4,
+        "expected_days": "2-4天",
+        "risk_level": "中",
+        "risk_note": "科创板流动性偏弱，需关注次日量能是否维持。",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      }
+    ]
   }
 ]
