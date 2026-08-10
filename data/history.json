@@ -152,5 +152,74 @@
         "position_suggestion": "单只不超过总仓位 10%"
       }
     ]
+  },
+  {
+    "date": "2026-08-10",
+    "stocks": [
+      {
+        "stock_name": "恒进感应",
+        "stock_code": "870195.BJ",
+        "reason": "工业母机概念领涨，政策+产量高增驱动，今日涨超10%，量能配合明显。",
+        "buy_price_range": "28.5-29.2",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 4,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "北交所流动性偏弱，需警惕次日冲高回落",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      },
+      {
+        "stock_name": "华中数控",
+        "stock_code": "300161.SZ",
+        "reason": "工业母机核心标的，叠加国产替代+数控机床产量同比+24%，资金快速涌入。",
+        "buy_price_range": "22.8-23.3",
+        "take_profit_pct": 7,
+        "stop_loss_pct": 5,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "短期涨幅较大，谨防板块分化回调",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      },
+      {
+        "stock_name": "宝鼎科技",
+        "stock_code": "002552.SZ",
+        "reason": "工业母机+高端装备双主线，5连板强势，资金高度认可，情绪溢价充足。",
+        "buy_price_range": "14.6-15.0",
+        "take_profit_pct": 5,
+        "stop_loss_pct": 4,
+        "expected_days": "1-2天",
+        "risk_level": "高",
+        "risk_note": "高位连板博弈加剧，需严格纪律止盈止损",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
+      },
+      {
+        "stock_name": "百花医药",
+        "stock_code": "600721.SH",
+        "reason": "创新药获批催化+自免/肿瘤管线突破，BD潜力受市场关注，5连板强化辨识度。",
+        "buy_price_range": "10.8-11.2",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 4,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "医药板块整体承压，需关注后续消息验证",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      }
+    ]
   }
 ]
