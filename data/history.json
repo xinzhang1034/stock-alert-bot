@@ -221,5 +221,23 @@
         "position_suggestion": "单只不超过总仓位 10%"
       }
     ]
-  }
-]
+  },
+  {
+    "date": "2026-08-11",
+    "stocks": [
+      {
+        "stock_name": "太极实业",
+        "stock_code": "601689",
+        "reason": "存储芯片概念领涨，AI驱动价格与出货量双升，涨停突破，主力资金净流入明显。",
+        "buy_price_range": "7.2-7.5",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 4,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "板块冲高回落风险，需盯紧量能及HBM消息催化持续性。",
+        "technical_snapshot": {
+          "latest_close": 50.06,
+          "ma5": 49.98,
+          "ma10": 48.42,
+          "volume_ratio": 0.41,
+          "above_ma5": 
