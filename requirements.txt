@@ -1,4 +1,21 @@
+# Requirements
+
+# Core
 akshare>=1.14.0
 pandas>=2.0.0
 requests>=2.31.0
+
+# LLM / HTTP
+requests
+
+# Plotting / K-line generation
+mplfinance
+matplotlib
+Pillow
+
+# Utilities
 python-dotenv>=1.0.0
+
+# Optional (if you want email HTML rendering in some environments)
+# Jinja2
+
