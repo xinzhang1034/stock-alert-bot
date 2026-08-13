@@ -22,6 +22,15 @@ class Config:
     # 调试配置
     DEBUG: bool = os.getenv("DEBUG", "false").lower() == "true"
     LOG_LEVEL: str = os.getenv("LOG_LEVEL", "INFO")
+
+    # 推荐数量（默认 10）
+    RECOMMEND_COUNT: int = int(os.getenv("RECOMMEND_COUNT", "10"))
+
+    # K 线图输出目录（相对于仓库根目录）
+    PLOT_DIR: str = os.getenv("PLOT_DIR", "static/plots")
+
+    # 复盘对比天数（默认次日）
+    RECAP_LOOKAHEAD_DAYS: int = int(os.getenv("RECAP_LOOKAHEAD_DAYS", "1"))
     
     @classmethod
     def validate(cls) -> tuple[bool, list[str]]:
