@@ -112,10 +112,10 @@ def run():
         
         # 6. 生成并发送邮件
         logger.info("生成 HTML 报告...")
-        html = build_html_report(stocks, circuit_breaker, yesterday_review)
+        html, images = build_html_report(stocks, circuit_breaker, yesterday_review)
         
         logger.info("发送邮件...")
-        send_email(html)
+        send_email(html, images)
         
         # 7. 保存历史记录
         logger.info("更新历史记录...")
