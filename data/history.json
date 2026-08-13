@@ -88,15 +88,34 @@
     "date": "2026-08-13",
     "stocks": [
       {
-        "stock_name": "德赛西威",
-        "stock_code": "002920.SZ",
-        "reason": "Q2净利润环比+69%，智能座舱+智驾龙头，受益AI汽车落地加速，龙虎榜未现异动但基本面催化强。",
-        "buy_price_range": "138.5-142.0",
+        "stock_name": "中石科技",
+        "stock_code": "300684.SZ",
+        "reason": "中际旭创17.47亿战略入股，光模块+散热协同逻辑强化，RISC-V及万兆光网催化",
+        "buy_price_range": "54.5-55.8",
         "take_profit_pct": 7,
         "stop_loss_pct": 4,
         "expected_days": "2-4天",
         "risk_level": "中",
-        "risk_note": "短期涨幅已高，需警惕业绩兑现不及预期。",
+        "risk_note": "协议转让尚未完成，需过会审核",
+        "technical_snapshot": {
+          "_error": "fetch_error"
+        },
+        "extra_warnings": [
+          "抓取数据异常"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%",
+        "recommend_price": null
+      },
+      {
+        "stock_name": "中际旭创",
+        "stock_code": "300308.SZ",
+        "reason": "主导800G/1.6T光模块放量，万兆光网+6G+AI算力基建核心标的，龙虎榜机构活跃",
+        "buy_price_range": "128.0-131.5",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 3.5,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "高位放量，短期存在获利回吐压力",
         "technical_snapshot": {
           "_error": "fetch_error"
         },
@@ -109,13 +128,13 @@
       {
         "stock_name": "移远通信",
         "stock_code": "603236.SH",
-        "reason": "全球模组龙头，直接受益AI终端出海+RISC-V生态爆发（滴水湖论坛量产率超90%），今日涨停且属稀缺硬件标的。",
-        "buy_price_range": "52.8-54.2",
-        "take_profit_pct": 6,
+        "reason": "5G-A升级+卫星直连手机落地核心标的，新闻联播重点提及新一代通信网建设",
+        "buy_price_range": "98.5-101.0",
+        "take_profit_pct": 6.5,
         "stop_loss_pct": 4,
-        "expected_days": "1-3天",
+        "expected_days": "2-3天",
         "risk_level": "中",
-        "risk_note": "模组行业竞争加剧，汇率波动影响毛利。",
+        "risk_note": "外销占比高，地缘风险扰动汇率与订单",
         "technical_snapshot": {
           "_error": "fetch_error"
         },
@@ -126,15 +145,15 @@
         "recommend_price": null
       },
       {
-        "stock_name": "蓝盾光电",
-        "stock_code": "300862.SZ",
-        "reason": "4连板+光通信+算力监测核心标的，谷歌AI算力瓶颈催化光模块/光传感需求，资金高度认可。",
-        "buy_price_range": "28.6-29.5",
-        "take_profit_pct": 5,
+        "stock_name": "兆日科技",
+        "stock_code": "300333.SZ",
+        "reason": "4连板梯队核心，RISC-V安全芯片+金融信创双主线，龙虎榜游资接力明显",
+        "buy_price_range": "8.2-8.6",
+        "take_profit_pct": 8,
         "stop_loss_pct": 5,
         "expected_days": "1-2天",
         "risk_level": "高",
-        "risk_note": "连板高位，量能放大后分歧风险大。",
+        "risk_note": "小市值题材股，波动剧烈，谨防监管问询",
         "technical_snapshot": {
           "_error": "fetch_error"
         },
@@ -145,15 +164,15 @@
         "recommend_price": null
       },
       {
-        "stock_name": "同力天启",
-        "stock_code": "605286.SH",
-        "reason": "4连板次新+RISC-V芯片配套测试设备商，直接受益国产RISC-V量产浪潮（论坛披露量产率超90%），题材纯度高。",
-        "buy_price_range": "24.3-25.1",
-        "take_profit_pct": 6,
-        "stop_loss_pct": 5,
-        "expected_days": "1-2天",
+        "stock_name": "蓝盾光电",
+        "stock_code": "300862.SZ",
+        "reason": "4连板+万兆光网+空天地海通信概念，叠加AI智能监测（化工园区8K视频回传）应用延伸",
+        "buy_price_range": "29.8-31.2",
+        "take_profit_pct": 7.5,
+        "stop_loss_pct": 4.5,
+        "expected_days": "1-3天",
         "risk_level": "高",
-        "risk_note": "次新+连板，流动性溢价高，退潮易大幅回调。",
+        "risk_note": "短期涨幅过大，量能持续性待验证",
         "technical_snapshot": {
           "_error": "fetch_error"
         },
