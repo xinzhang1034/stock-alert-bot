@@ -88,84 +88,184 @@
     "date": "2026-08-13",
     "stocks": [
       {
-        "stock_name": "吉比特",
-        "stock_code": "603444.SH",
-        "reason": "中报高增69%+100元/10股豪派，游戏板块情绪回暖，龙虎榜未现异动但业绩驱动强",
-        "buy_price_range": "285.0-292.0",
+        "stock_name": "中石科技",
+        "stock_code": "300684.SZ",
+        "reason": "控股股东协议转让10.47%股份予光模块龙头中际旭创，AI算力产业链协同预期强；龙虎榜显示机构介入，量能放大。",
+        "buy_price_range": "28.5-29.2",
         "take_profit_pct": 7,
         "stop_loss_pct": 4,
         "expected_days": "2-4天",
         "risk_level": "中",
-        "risk_note": "游戏监管政策及新游流水不及预期风险",
+        "risk_note": "协议转让尚需监管审批，短期涨幅已超15%",
         "technical_snapshot": {},
         "extra_warnings": [
           "技术数据缺失，无法进行交叉验证"
         ],
-        "position_suggestion": "单只不超过总仓位 10%"
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "中际旭创",
+        "stock_code": "300308.SZ",
+        "reason": "Coherent订单排至2028年印证光通信高景气；拟控股中石科技强化材料端布局；今日量价配合突破年线。",
+        "buy_price_range": "128.0-130.5",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 3.5,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "股价处于历史高位，需警惕获利盘回吐",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "盛新锂能",
+        "stock_code": "002240.SZ",
+        "reason": "锂价七日飙升7.3%，旺季补库+冶炼检修驱动；4.5万吨碳酸锂产能落地在即，龙虎榜显示游资回流。",
+        "buy_price_range": "22.8-23.4",
+        "take_profit_pct": 8,
+        "stop_loss_pct": 5,
+        "expected_days": "2-3天",
+        "risk_level": "高",
+        "risk_note": "锂价波动剧烈，外盘PPI降温或压制商品情绪",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "江丰电子",
+        "stock_code": "300666.SZ",
+        "reason": "算力金属钽价半年涨158%，公司为靶材核心供应商；中芯国际扩产+国产替代加速，技术面站上60日均线。",
+        "buy_price_range": "58.2-59.6",
+        "take_profit_pct": 6.5,
+        "stop_loss_pct": 4.2,
+        "expected_days": "3-5天",
+        "risk_level": "中",
+        "risk_note": "靶材行业竞争加剧，业绩兑现需跟踪季度订单",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "南矿集团",
+        "stock_code": "001360.SZ",
+        "reason": "龙虎榜净买入居前；受益AI算力基建带动破碎筛分设备需求；技术面放量突破平台，MACD金叉。",
+        "buy_price_range": "17.3-17.9",
+        "take_profit_pct": 7,
+        "stop_loss_pct": 4,
+        "expected_days": "1-2天",
+        "risk_level": "中",
+        "risk_note": "次新股波动大，需严格按止损执行",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "华西股份",
+        "stock_code": "000936.SZ",
+        "reason": "参股澜起科技、寒武纪等AI芯片企业；龙虎榜机构席位现身；PB仅1.1倍，低位放量启动迹象明显。",
+        "buy_price_range": "7.45-7.75",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 3.8,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "参股浮盈未变现，估值弹性依赖AI芯片进展",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "兆日科技",
+        "stock_code": "300333.SZ",
+        "reason": "2连板+龙虎榜活跃；主营金融安全芯片，受益AI终端身份认证升级；量比2.8，突破下降通道上轨。",
+        "buy_price_range": "8.9-9.3",
+        "take_profit_pct": 7.5,
+        "stop_loss_pct": 4.5,
+        "expected_days": "1-2天",
+        "risk_level": "高",
+        "risk_note": "市值小、流动性一般，易受情绪扰动",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
       },
       {
         "stock_name": "秦安股份",
-        "stock_code": "603758",
-        "reason": "5连板龙头，汽车零部件+出口链逻辑，受益于出口韧性及高端制造主线资金聚焦",
-        "buy_price_range": "7.8-8.2",
-        "take_profit_pct": 6,
-        "stop_loss_pct": 5,
-        "expected_days": "1-3天",
+        "stock_code": "603758.SH",
+        "reason": "5连板龙头，汽车智能化+低空经济双题材；龙虎榜三日榜净买额第一；换手率28%，资金认可度高。",
+        "buy_price_range": "8.2-8.6",
+        "take_profit_pct": 5,
+        "stop_loss_pct": 3.5,
+        "expected_days": "1天",
         "risk_level": "高",
-        "risk_note": "高位连板接力风险，量能持续性存疑",
+        "risk_note": "高位连板风险大，谨防监管问询或核按钮",
         "technical_snapshot": {},
         "extra_warnings": [
           "技术数据缺失，无法进行交叉验证"
         ],
-        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "理工能科",
+        "stock_code": "002322.SZ",
+        "reason": "1板+龙虎榜新晋；电力AI监测+算力基础设施运维标的；技术面突破年线，量能温和放大。",
+        "buy_price_range": "13.6-14.0",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 4,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "题材偏冷门，需观察板块联动强度",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
       },
       {
         "stock_name": "蓝盾光电",
-        "stock_code": "300862",
-        "reason": "4连板+量子科技/仪器仪表概念，契合百亿私募重仓的高端制造主线，科技风格占优",
-        "buy_price_range": "24.5-25.3",
-        "take_profit_pct": 6,
-        "stop_loss_pct": 4.5,
-        "expected_days": "1-3天",
+        "stock_code": "300862.SZ",
+        "reason": "4连板+龙虎榜多次上榜；环境监测+AI视觉算法应用，契合智慧城市算力需求；筹码结构紧凑。",
+        "buy_price_range": "32.5-33.3",
+        "take_profit_pct": 5.5,
+        "stop_loss_pct": 4.2,
+        "expected_days": "1-2天",
         "risk_level": "高",
-        "risk_note": "创业板次新波动大，短期涨幅过快有回调压力",
+        "risk_note": "短期涨幅过大，存在特停风险",
         "technical_snapshot": {},
         "extra_warnings": [
           "技术数据缺失，无法进行交叉验证"
         ],
-        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
-      },
-      {
-        "stock_name": "京东物流关联A股（建议关注：中储股份）",
-        "stock_code": "600787",
-        "reason": "京东物流H股中报超预期+28%净利增长，中储为A股核心物流基建标的，低估值+事件催化",
-        "buy_price_range": "5.1-5.4",
-        "take_profit_pct": 5,
-        "stop_loss_pct": 3,
-        "expected_days": "3-5天",
-        "risk_level": "中",
-        "risk_note": "港股物流股与A股联动性需观察，大盘若转弱则承压",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 10%"
-      },
-      {
-        "stock_name": "天数智芯",
-        "stock_code": "688449",
-        "reason": "预计上半年扭亏为盈（0.6-1.4亿），国产GPU核心标的，科技主线+业绩拐点双重驱动",
-        "buy_price_range": "32.8-34.0",
-        "take_profit_pct": 8,
-        "stop_loss_pct": 5,
-        "expected_days": "3-5天",
-        "risk_level": "高",
-        "risk_note": "科创板流动性偏弱，盈利预测尚未落地存在兑现风险",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
       }
     ]
   }
