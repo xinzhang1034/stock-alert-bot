@@ -83,5 +83,74 @@
         "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
       }
     ]
+  },
+  {
+    "date": "2026-08-13",
+    "stocks": [
+      {
+        "stock_name": "天孚通信",
+        "stock_code": "300394",
+        "reason": "主力净买入超15亿，光模块核心标的，受益AI算力基建加速",
+        "buy_price_range": "68.5-70.0",
+        "take_profit_pct": 8,
+        "stop_loss_pct": 5,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "高位放量，需警惕短期获利回吐压力",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      },
+      {
+        "stock_name": "臻宝科技",
+        "stock_code": "688362",
+        "reason": "拟投5.2亿建半导体零部件基地，切入SiC/AlN前道耗材，国产替代逻辑强化",
+        "buy_price_range": "32.8-33.5",
+        "take_profit_pct": 7,
+        "stop_loss_pct": 6,
+        "expected_days": "2-4天",
+        "risk_level": "中",
+        "risk_note": "次新股波动大，需关注资金承接力度",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 10%"
+      },
+      {
+        "stock_name": "蓝盾光电",
+        "stock_code": "300862",
+        "reason": "4连板+环保监测主线，契合新一轮空气质量改善行动及中央生态督察深化",
+        "buy_price_range": "28.6-29.2",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 5,
+        "expected_days": "1-2天",
+        "risk_level": "高",
+        "risk_note": "连板高位，情绪退潮风险不可忽视",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
+      },
+      {
+        "stock_name": "秦安股份",
+        "stock_code": "603758",
+        "reason": "5连板汽车零部件龙头，叠加智算集群+无人化装备概念，新签合同增143%",
+        "buy_price_range": "11.4-11.8",
+        "take_profit_pct": 5,
+        "stop_loss_pct": 4,
+        "expected_days": "1-2天",
+        "risk_level": "高",
+        "risk_note": "高位加速，谨防监管问询或情绪断层",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
+      }
+    ]
   }
 ]
