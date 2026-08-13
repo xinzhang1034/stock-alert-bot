@@ -88,15 +88,15 @@
     "date": "2026-08-13",
     "stocks": [
       {
-        "stock_name": "同力天启",
-        "stock_code": "605286",
-        "reason": "4连板电力+算力用电催化，消息面明确指向2030年算力用电量达8000亿千瓦时，龙虎榜未上榜但连板强度高。",
-        "buy_price_range": "18.2-18.7",
+        "stock_name": "秦安股份",
+        "stock_code": "603758",
+        "reason": "5连板强势龙头，新能源汽车+智能驾驶题材，龙虎榜机构与游资共振，量价配合良好。",
+        "buy_price_range": "8.2-8.6",
         "take_profit_pct": 6,
         "stop_loss_pct": 4,
-        "expected_days": "1-2天",
+        "expected_days": "1-3天",
         "risk_level": "中",
-        "risk_note": "高位连板分歧加大，需警惕断板负反馈",
+        "risk_note": "高位连板加速，谨防监管问询或获利盘兑现。",
         "technical_snapshot": {},
         "extra_warnings": [
           "技术数据缺失，无法进行交叉验证"
@@ -104,31 +104,31 @@
         "position_suggestion": "单只不超过总仓位 10%"
       },
       {
-        "stock_name": "秦安股份",
-        "stock_code": "603758",
-        "reason": "市场最高标5连板，汽车零部件+AI算力硬件逻辑（智驾域控），资金聚焦高标辨识度，今日未见明显抛压。",
-        "buy_price_range": "12.8-13.2",
+        "stock_name": "北京文化",
+        "stock_code": "000802",
+        "reason": "4连板影视传媒核心，暑期档催化+AI内容应用预期，龙虎榜一线游资主导，换手充分。",
+        "buy_price_range": "6.8-7.1",
         "take_profit_pct": 7,
         "stop_loss_pct": 5,
-        "expected_days": "1-3天",
-        "risk_level": "高",
-        "risk_note": "严重异动风险临近，监管压力上升",
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "题材热度波动大，需紧盯板块持续性及监管动态。",
         "technical_snapshot": {},
         "extra_warnings": [
           "技术数据缺失，无法进行交叉验证"
         ],
-        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
+        "position_suggestion": "单只不超过总仓位 10%"
       },
       {
-        "stock_name": "澳洋健康",
-        "stock_code": "002172",
-        "reason": "2连板+医药服务分支，江河集团4天3板带动板块，叠加20CM涨停潮（博济、南模等），资金偏好弹性标的。",
-        "buy_price_range": "3.45-3.55",
-        "take_profit_pct": 8,
+        "stock_name": "皇氏集团",
+        "stock_code": "002329",
+        "reason": "4连板乳业+光伏双主线，广西本地+低空经济潜在映射，缩量加速，资金认可度高。",
+        "buy_price_range": "3.4-3.6",
+        "take_profit_pct": 5,
         "stop_loss_pct": 4,
         "expected_days": "1-2天",
         "risk_level": "中",
-        "risk_note": "医药板块轮动快，需盯紧前排核心强度",
+        "risk_note": "市值小弹性大，但基本面支撑偏弱，纯情绪驱动。",
         "technical_snapshot": {},
         "extra_warnings": [
           "技术数据缺失，无法进行交叉验证"
@@ -138,29 +138,29 @@
       {
         "stock_name": "蓝盾光电",
         "stock_code": "300862",
-        "reason": "4连板+20CM稀缺性，光通信/芯片概念联动港股剑桥科技大涨6%，资金博弈科技低位弹性标的。",
-        "buy_price_range": "29.6-30.2",
-        "take_profit_pct": 7,
-        "stop_loss_pct": 5,
-        "expected_days": "1-2天",
-        "risk_level": "高",
-        "risk_note": "20CM波动剧烈，量能若衰竭易大幅回撤",
+        "reason": "4连板环保+监测设备标的，直接受益《生态环境法典》落地，政策催化明确，叠加次新属性。",
+        "buy_price_range": "18.5-19.2",
+        "take_profit_pct": 6,
+        "stop_loss_pct": 4.5,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "次新股波动剧烈，需防范短期涨幅过大后的回调压力。",
         "technical_snapshot": {},
         "extra_warnings": [
           "技术数据缺失，无法进行交叉验证"
         ],
-        "position_suggestion": "单只不超过总仓位 5%，或观望不参与"
+        "position_suggestion": "单只不超过总仓位 10%"
       },
       {
-        "stock_name": "继峰股份",
-        "stock_code": "603997",
-        "reason": "事件驱动：获21.2亿元座椅总成定点，汽车智能化+国产替代逻辑强化，今日未涨停但资金提前埋伏，机构关注度提升。",
-        "buy_price_range": "13.1-13.5",
+        "stock_name": "京东物流关联A股（建议关注：中储股份）",
+        "stock_code": "600787",
+        "reason": "京东物流H股业绩超预期+A股物流链补涨逻辑，中储股份为仓储物流核心标的，低位放量突破。",
+        "buy_price_range": "5.3-5.6",
         "take_profit_pct": 5,
-        "stop_loss_pct": 3,
+        "stop_loss_pct": 3.5,
         "expected_days": "2-3天",
         "risk_level": "低",
-        "risk_note": "利好兑现后冲高乏力，需观察量能持续性",
+        "risk_note": "需确认物流板块联动强度，若市场转弱则弹性受限。",
         "technical_snapshot": {},
         "extra_warnings": [
           "技术数据缺失，无法进行交叉验证"
