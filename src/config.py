@@ -18,6 +18,8 @@ class Config:
     SENDER_EMAIL: str = os.getenv("SENDER_EMAIL", "")
     SENDER_PASSWORD: str = os.getenv("SENDER_PASSWORD", "")
     RECEIVER_EMAIL: str = os.getenv("RECEIVER_EMAIL", "")
+    # 支持通过 RECEIVER_EMAILS 指定多个收件人（逗号/分号分隔）
+    RECEIVER_EMAILS_ENV: str = os.getenv("RECEIVER_EMAILS", "")
     
     # 调试配置
     DEBUG: bool = os.getenv("DEBUG", "false").lower() == "true"
@@ -34,7 +36,10 @@ class Config:
     
     @classmethod
     def validate(cls) -> tuple[bool, list[str]]:
-        """验证必需的配置是否存在"""
+        """验证必需的配置是否存在
+
+        接受单个 RECEIVER_EMAIL 或 多收件人环境变量 RECEIVER_EMAILS
+        """
         errors = []
         
         if not cls.DASHSCOPE_API_KEY:
@@ -43,8 +48,9 @@ class Config:
             errors.append("缺少 SENDER_EMAIL")
         if not cls.SENDER_PASSWORD:
             errors.append("缺少 SENDER_PASSWORD")
-        if not cls.RECEIVER_EMAIL:
-            errors.append("缺少 RECEIVER_EMAIL")
+        # 接受单个 RECEIVER_EMAIL 或 环境变量 RECEIVER_EMAILS
+        if not cls.RECEIVER_EMAIL and not cls.RECEIVER_EMAILS_ENV:
+            errors.append("缺少 RECEIVER_EMAIL 或 RECEIVER_EMAILS (secrets)")
         
         return len(errors) == 0, errors
 
