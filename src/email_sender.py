@@ -104,6 +104,12 @@ def build_html_report(stocks: list, circuit_breaker: bool, yesterday_review: str
         warnings = s.get('extra_warnings', [])
         warnings_text = '；'.join(warnings) if warnings else '无'
 
+        # 为避免 f-string 表达式中包含反斜线导致的语法错误，先构造额外风险 HTML
+        if warnings_text != '无':
+            note_html = '<div style="margin-top:8px;background:#fff3cd;padding:8px;border-radius:4px">⚠️ 额外风险: ' + warnings_text + '</div>'
+        else:
+            note_html = ''
+
         stocks_html += f"""
         <div style=\"border:1px solid #eaeaea;padding:12px;border-radius:8px;margin-bottom:12px\">
           <div style=\"display:flex;justify-content:space-between;align-items:center;\"><div><strong>{i}. {s.get('stock_name','N/A')}</strong><div style=\"color:#666;font-size:12px\">{s.get('stock_code','')}</div></div><div style=\"color:#e55353;font-weight:bold\">{s.get('risk_level','中')}风险</div></div>
@@ -114,7 +120,7 @@ def build_html_report(stocks: list, circuit_breaker: bool, yesterday_review: str
             <div style=\"background:#fff;padding:6px;border-radius:4px;border:1px solid #eee;text-align:center\"><div style=\"font-size:11px;color:#999\">止损</div><div style=\"font-weight:bold;color:#e53e3e\">-{s.get('stop_loss_pct','-')}%</div></div>
           </div>
           {img_tag}
-          {('<div style=\"margin-top:8px;background:#fff3cd;padding:8px;border-radius:4px\">⚠️ 额外风险: ' + warnings_text + '</div>') if warnings_text!='无' else ''}
+          {note_html}
         </div>
         """
 
@@ -126,7 +132,7 @@ def build_html_report(stocks: list, circuit_breaker: bool, yesterday_review: str
     <!DOCTYPE html>
     <html>
     <head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">{base_styles}</head>
-    <body><div class=\"container\"><h1>📊 A股短线助手</h1><div style=\"margin-top:12px\">今日关注: {len(stocks)} 只</div>{stocks_html}<h3>昨日复盘</h3><div>{recap_html}</div><div style=\"margin-top:12px;color:#999;font-size:12px\">本内容仅供参考，不构成投资建议</div></div></body></html>
+    <body><div class=\"container\"><h1>📊 A股短线助手</h1><div style=\"margin-top:12px\">今日关注: {len(stocks)} 只</div>{stocks_html}<h3>昨日复盘</h3><div>{recap_html}</div><div style=\"margin-top:12px;color:#999;font-size:12px\">本内容仅供参考，不构成任何投资建议</div></div></body></html>
     """
 
     return html, images
