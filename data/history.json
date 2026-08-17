@@ -453,5 +453,23 @@
         "next_day_close": null
       }
     ]
-  }
-]
+  },
+  {
+    "date": "2026-08-17",
+    "stocks": [
+      {
+        "stock_name": "桂发祥",
+        "stock_code": "002820",
+        "reason": "补充：来自涨停/龙虎榜池，供参考",
+        "buy_price_range": "N/A",
+        "take_profit_pct": "N/A",
+        "stop_loss_pct": "N/A",
+        "expected_days": "N/A",
+        "risk_level": "中",
+        "risk_note": "由系统补充，需人工核验",
+        "technical_snapshot": {
+          "latest_close": 11.15,
+          "ma5": 9.88,
+          "ma10": 9.54,
+          "volume_ratio": 0.61,
+          "above_ma5": 
