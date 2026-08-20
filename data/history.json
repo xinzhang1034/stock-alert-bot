@@ -3,18 +3,205 @@
     "date": "2026-08-20",
     "stocks": [
       {
-        "stock_name": "长盈通",
-        "stock_code": "688143.SH",
-        "reason": "CPO保偏光纤核心标的，消息面催化明确，今日涨超15%放量突破年线，资金强势介入",
-        "buy_price_range": "28.5-29.2",
-        "take_profit_pct": 7,
-        "stop_loss_pct": 4,
-        "expected_days": "1-3天",
-        "risk_level": "中",
-        "risk_note": "题材炒作波动大，需警惕次日分歧放量滞涨",
-        "technical_snapshot": {
-          "latest_close": 147.45,
-          "ma5": 142.7,
-          "ma10": 127.3,
-          "volume_ratio": 1.1,
-          "above_ma5": 
+        "stock_name": "日丰股份",
+        "stock_code": "002953",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "罗普斯金",
+        "stock_code": "002333",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "金健米业",
+        "stock_code": "600127",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "红四方",
+        "stock_code": "603395",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "鲁信创投",
+        "stock_code": "600783",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "深华发Ａ",
+        "stock_code": "000020",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "宝泰隆",
+        "stock_code": "601011",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "南都物业",
+        "stock_code": "603506",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "万向德农",
+        "stock_code": "600371",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "尚太科技",
+        "stock_code": "001301",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      }
+    ]
+  }
+]
