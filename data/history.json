@@ -1,92 +1,20 @@
 [
   {
-    "date": "2026-08-19",
+    "date": "2026-08-20",
     "stocks": [
       {
-        "stock_name": "斯达半导",
-        "stock_code": "603290.SH",
-        "reason": "功率半导体龙头涨停，台厂涨价预期+板块共振，量能放大突破年线，技术面强势。",
-        "buy_price_range": "78.5-80.2",
+        "stock_name": "长盈通",
+        "stock_code": "688143.SH",
+        "reason": "CPO保偏光纤核心标的，消息面催化明确，今日涨超15%放量突破年线，资金强势介入",
+        "buy_price_range": "28.5-29.2",
         "take_profit_pct": 7,
         "stop_loss_pct": 4,
         "expected_days": "1-3天",
         "risk_level": "中",
-        "risk_note": "创业板整体重挫，板块跟风股分化加剧",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 10%",
-        "kline_7d_base64": "",
-        "next_day_close": null
-      },
-      {
-        "stock_name": "红四方",
-        "stock_code": "603395.SH",
-        "reason": "化工领涨+3连板，行业利润同比+54.9%，量价齐升突破平台，短线情绪标杆。",
-        "buy_price_range": "14.3-14.7",
-        "take_profit_pct": 6,
-        "stop_loss_pct": 3.5,
-        "expected_days": "1-2天",
-        "risk_level": "高",
-        "risk_note": "高位连板，需警惕监管与次日分歧放量",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
-        "kline_7d_base64": "",
-        "next_day_close": null
-      },
-      {
-        "stock_name": "陕西黑猫",
-        "stock_code": "601015.SH",
-        "reason": "煤炭板块集体爆发，焦炭提涨落地+原煤产量创五年新低，放量突破前高，动量强劲。",
-        "buy_price_range": "5.25-5.40",
-        "take_profit_pct": 5,
-        "stop_loss_pct": 3,
-        "expected_days": "1-3天",
-        "risk_level": "中",
-        "risk_note": "周期股弹性大但持续性依赖煤焦价格跟进",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 10%",
-        "kline_7d_base64": "",
-        "next_day_close": null
-      },
-      {
-        "stock_name": "新洁能",
-        "stock_code": "605111.SH",
-        "reason": "功率半导体核心标的，跟涨斯达半导，资金回流半导体材料端，MACD金叉+缩量回调后放量启动。",
-        "buy_price_range": "32.8-33.5",
-        "take_profit_pct": 6,
-        "stop_loss_pct": 4,
-        "expected_days": "2-3天",
-        "risk_level": "中",
-        "risk_note": "半导体板块整体承压，需防御性仓位管理",
-        "technical_snapshot": {},
-        "extra_warnings": [
-          "技术数据缺失，无法进行交叉验证"
-        ],
-        "position_suggestion": "单只不超过总仓位 10%",
-        "kline_7d_base64": "",
-        "next_day_close": null
-      },
-      {
-        "stock_name": "扬杰科技",
-        "stock_code": "300373.SZ",
-        "reason": "功率半导体+国产替代双驱动，今日放量涨超8%，站上60日均线，北向近期小幅增持。",
-        "buy_price_range": "41.2-42.0",
-        "take_profit_pct": 5.5,
-        "stop_loss_pct": 3.5,
-        "expected_days": "2-3天",
-        "risk_level": "中",
-        "risk_note": "创业板指大跌4%，需关注次日权重股承接力",
+        "risk_note": "题材炒作波动大，需警惕次日分歧放量滞涨",
         "technical_snapshot": {
-          "latest_close": 104.4,
-          "ma5": 99.66,
-          "ma10": 97.62,
-          "volume_ratio": 1.19,
+          "latest_close": 147.45,
+          "ma5": 142.7,
+          "ma10": 127.3,
+          "volume_ratio": 1.1,
           "above_ma5": 
