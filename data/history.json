@@ -213,5 +213,202 @@
         "next_day_close": null
       }
     ]
+  },
+  {
+    "date": "2026-08-21",
+    "stocks": [
+      {
+        "stock_name": "融捷股份",
+        "stock_code": "002192",
+        "reason": "锂矿概念领涨，逼近涨停；碳酸锂期货站上15.5万元/吨，量能放大，突破60日均线",
+        "buy_price_range": "38.2-39.0",
+        "take_profit_pct": 7.0,
+        "stop_loss_pct": 4.0,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "锂价反弹持续性待验证，外盘波动影响大",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "天华新能",
+        "stock_code": "300390",
+        "reason": "锂矿跟涨龙头，机构席位活跃；MACD金叉+放量突破年线，资金面与消息面共振",
+        "buy_price_range": "24.8-25.4",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 4.0,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "高弹性品种，单日振幅大，需盯紧锂价走势",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "速达股份",
+        "stock_code": "001277",
+        "reason": "两连板+龙虎榜现身，工程机械+AI智能运维题材；换手充分，量比2.3，突破平台压力",
+        "buy_price_range": "28.6-29.2",
+        "take_profit_pct": 5.0,
+        "stop_loss_pct": 3.5,
+        "expected_days": "1-2天",
+        "risk_level": "高",
+        "risk_note": "次新股波动剧烈，连板高度受限，谨防分歧兑现",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "永安药业",
+        "stock_code": "002365",
+        "reason": "龙虎榜三度上榜，牛磺酸+减肥药概念延伸；缩量反包阳线，站稳5日线，主力回流迹象明显",
+        "buy_price_range": "10.3-10.7",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 3.0,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "题材偏边缘，需配合板块强度，量能萎缩则减仓",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "京粮控股",
+        "stock_code": "000505",
+        "reason": "龙虎榜新晋上榜，植物肉+粮食安全主线；突破下降趋势线，分时抗跌，北向小幅加仓",
+        "buy_price_range": "7.1-7.4",
+        "take_profit_pct": 5.0,
+        "stop_loss_pct": 3.5,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "低位补涨逻辑，需观察农业板块整体强度",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "集运欧线相关ETF（间接标的）",
+        "stock_code": "159642",
+        "reason": "集运欧线主力合约单日涨超9%，流动性好、杠杆适中；ETF放量突破布林上轨，趋势启动",
+        "buy_price_range": "1.245-1.265",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 3.0,
+        "expected_days": "1-2天",
+        "risk_level": "中",
+        "risk_note": "商品期货ETF波动受外盘主导，夜盘风险需规避",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "澳洋健康",
+        "stock_code": "002172",
+        "reason": "龙虎榜三连登，医美+康复医疗双概念；尾盘抢筹明显，量比达3.1，KDJ低位金叉",
+        "buy_price_range": "3.95-4.05",
+        "take_profit_pct": 5.0,
+        "stop_loss_pct": 3.5,
+        "expected_days": "1-2天",
+        "risk_level": "高",
+        "risk_note": "历史股性活跃但控盘度低，易受情绪扰动",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "柘中股份",
+        "stock_code": "002346",
+        "reason": "龙虎榜上榜，固态电池+新材料概念；突破年线且站稳，MACD红柱伸长，主力净流入显著",
+        "buy_price_range": "13.8-14.2",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 4.0,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "题材有政策催化预期，但需防范新能源板块轮动节奏",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "莱美药业",
+        "stock_code": "300006",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "沃森生物",
+        "stock_code": "300142",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      }
+    ]
   }
 ]
