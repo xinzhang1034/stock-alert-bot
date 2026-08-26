@@ -410,5 +410,200 @@
         "next_day_close": null
       }
     ]
+  },
+  {
+    "date": "2026-08-26",
+    "stocks": [
+      {
+        "stock_name": "湘财股份",
+        "stock_code": "600095",
+        "reason": "大金融领涨核心，直线涨停+量能放大，受益6G政策催化及券商板块轮动",
+        "buy_price_range": "7.8-8.2",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 4.0,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "金融股波动大，需盯住板块持续性",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "兆日科技",
+        "stock_code": "300333",
+        "reason": "互联金融+6G概念双驱动，放量大涨超15%，资金抢筹明显，技术面突破年线",
+        "buy_price_range": "6.2-6.6",
+        "take_profit_pct": 7.0,
+        "stop_loss_pct": 4.5,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "小市值弹性大，但流动性偏弱需快进快出",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "联迪信息",
+        "stock_code": "301207",
+        "reason": "信创+金融IT+6G潜在受益标的，今日快速跟涨，换手率超35%，量价配合良好",
+        "buy_price_range": "28.5-29.8",
+        "take_profit_pct": 6.5,
+        "stop_loss_pct": 5.0,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "次新股波动剧烈，谨防高位分歧兑现",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "深中华A",
+        "stock_code": "000017",
+        "reason": "4连板高度标，龙虎榜机构+游资合力，叠加‘机器人+’政策催化，量能健康未见巨量滞涨",
+        "buy_price_range": "7.1-7.4",
+        "take_profit_pct": 5.0,
+        "stop_loss_pct": 4.0,
+        "expected_days": "1-2天",
+        "risk_level": "高",
+        "risk_note": "高位连板接力风险高，需严格按止损执行",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "中南文化",
+        "stock_code": "002445",
+        "reason": "2连板+龙虎榜现身，AI内容+机器人应用场景逻辑，今日缩量加速，资金认可度高",
+        "buy_price_range": "2.9-3.1",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 3.5,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "低价题材股，易受情绪影响大幅波动",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "登海种业",
+        "stock_code": "002041",
+        "reason": "2连板+龙虎榜加持，农业现代化+‘十五五’场景培育政策直接受益，量能温和放大",
+        "buy_price_range": "19.6-20.3",
+        "take_profit_pct": 5.5,
+        "stop_loss_pct": 4.0,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "农业板块节奏偏慢，需防范消息兑现后回调",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "海鸥住工",
+        "stock_code": "002084",
+        "reason": "2连板+龙虎榜，机器人+智能家居双主题，今日突破平台，MACD金叉且量能回升",
+        "buy_price_range": "3.4-3.6",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 3.5,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "地产链关联度高，需观察下游需求信号",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "恒银科技",
+        "stock_code": "603106",
+        "reason": "大金融+AI金融终端+6G潜在应用端，今日强势跟涨，分时抗跌，5日均线上穿10日均线",
+        "buy_price_range": "6.3-6.7",
+        "take_profit_pct": 5.5,
+        "stop_loss_pct": 4.0,
+        "expected_days": "1-2天",
+        "risk_level": "中",
+        "risk_note": "历史股性活跃但市值小，警惕盘中跳水",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "指南针",
+        "stock_code": "300803",
+        "reason": "互联金融核心标的，今日放量大涨，北向+融资余额双增，技术面站上所有短期均线",
+        "buy_price_range": "42.5-44.0",
+        "take_profit_pct": 5.0,
+        "stop_loss_pct": 4.5,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "高价股波动率高，需关注券商整体强度",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "通鼎互联",
+        "stock_code": "002491",
+        "reason": "龙虎榜现身+6G光通信基础设施标的，今日逆势放量涨近7%，均线多头排列初现",
+        "buy_price_range": "4.7-5.0",
+        "take_profit_pct": 6.5,
+        "stop_loss_pct": 4.0,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "通信设备板块轮动较快，需紧盯6G进展催化",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      }
+    ]
   }
 ]
