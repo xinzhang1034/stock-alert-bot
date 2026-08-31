@@ -811,5 +811,206 @@
         "next_day_close": null
       }
     ]
+  },
+  {
+    "date": "2026-08-31",
+    "stocks": [
+      {
+        "stock_name": "海鸥住工",
+        "stock_code": "002084",
+        "reason": "5连板龙头，龙虎榜机构+一线游资合力，量能持续放大，突破年线压制，AI家居+机器人概念政策催化",
+        "buy_price_range": "5.8-6.1",
+        "take_profit_pct": 7.0,
+        "stop_loss_pct": 4.0,
+        "expected_days": "1-3天",
+        "risk_level": "高",
+        "risk_note": "高位连板，监管风险与情绪退潮压力并存",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "consecutive_days": 3,
+        "next_day_close": null
+      },
+      {
+        "stock_name": "万向德农",
+        "stock_code": "600371",
+        "reason": "农业板块月度核心标，涨超80%，叠加种业振兴+转基因商业化加速，量价齐升站稳60日均线",
+        "buy_price_range": "12.3-12.7",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 3.5,
+        "expected_days": "2-4天",
+        "risk_level": "中",
+        "risk_note": "农业板块轮动快，需警惕消息兑现后回调",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "consecutive_days": 2,
+        "next_day_close": null
+      },
+      {
+        "stock_name": "捷荣技术",
+        "stock_code": "002855",
+        "reason": "4连板消费电子+华为链补涨龙头，龙虎榜显示量化席位接力，MACD金叉，换手充分未见明显抛压",
+        "buy_price_range": "18.2-18.6",
+        "take_profit_pct": 6.5,
+        "stop_loss_pct": 4.0,
+        "expected_days": "1-3天",
+        "risk_level": "高",
+        "risk_note": "高位缩量加速后易分歧，需盯盘口承接力度",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "consecutive_days": 2,
+        "next_day_close": null
+      },
+      {
+        "stock_name": "锦龙股份",
+        "stock_code": "000712",
+        "reason": "3连板券商+金融科技标的，龙虎榜现身深股通及机构席位，量比2.3，突破下降趋势线，受益AI+金融IT升级",
+        "buy_price_range": "11.4-11.8",
+        "take_profit_pct": 5.5,
+        "stop_loss_pct": 3.5,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "券商板块弹性大但持续性弱，需配合指数环境",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "consecutive_days": 2,
+        "next_day_close": null
+      },
+      {
+        "stock_name": "昊华科技",
+        "stock_code": "600378",
+        "reason": "2连板+化工+半导体材料双主线，光刻胶前驱体放量预期，龙虎榜机构净买入，5日均线上穿20日均线",
+        "buy_price_range": "34.5-35.2",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 3.5,
+        "expected_days": "2-4天",
+        "risk_level": "中",
+        "risk_note": "化工板块联动性弱，需单独观察其材料逻辑强度",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "新农股份",
+        "stock_code": "002942",
+        "reason": "3连板农药+转基因种业延伸，量能温和放大，突破平台整理，受益农业政策密集落地与出口景气",
+        "buy_price_range": "16.8-17.3",
+        "take_profit_pct": 5.5,
+        "stop_loss_pct": 3.5,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "细分行业容量小，流动性受限，易受资金偏好切换影响",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "consecutive_days": 2,
+        "next_day_close": null
+      },
+      {
+        "stock_name": "冀衡医药",
+        "stock_code": "002742",
+        "reason": "4连板创新药+多肽合成概念，月内医药最强分支之一，龙虎榜显示游资主导，分时抗跌性强",
+        "buy_price_range": "10.1-10.4",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 4.0,
+        "expected_days": "1-3天",
+        "risk_level": "高",
+        "risk_note": "纯情绪驱动，缺乏基本面支撑，需严守止损纪律",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "consecutive_days": 2,
+        "next_day_close": null
+      },
+      {
+        "stock_name": "长盈通",
+        "stock_code": "688143",
+        "reason": "算力硬件月度牛股（+90%），光模块+光纤陀螺双驱动，今日缩量回踩5日线，北向增持+机构调研频次提升",
+        "buy_price_range": "32.6-33.2",
+        "take_profit_pct": 7.0,
+        "stop_loss_pct": 4.0,
+        "expected_days": "3-5天",
+        "risk_level": "中",
+        "risk_note": "科创板流动性略低，需关注次日量能是否有效放大",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "腾景科技",
+        "stock_code": "688195",
+        "reason": "算力硬件+光通信核心标的（+80%），光模块上游精密元件，技术面三连阳突破箱体，融资余额环比增12%",
+        "buy_price_range": "28.4-28.9",
+        "take_profit_pct": 6.5,
+        "stop_loss_pct": 4.0,
+        "expected_days": "3-5天",
+        "risk_level": "中",
+        "risk_note": "科创板波动率高，若大盘缩量则易提前止盈",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "仕佳光子",
+        "stock_code": "688313",
+        "reason": "光芯片+硅光概念，月涨超70%，今日放量突破年线，获QFII二季度新进，光通信国产替代逻辑强化",
+        "buy_price_range": "14.2-14.6",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 3.5,
+        "expected_days": "3-5天",
+        "risk_level": "中",
+        "risk_note": "需防范美对华光通信设备出口管制政策扰动",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      }
+    ]
   }
 ]
