@@ -1217,5 +1217,200 @@
         "next_day_close": null
       }
     ]
+  },
+  {
+    "date": "2026-09-17",
+    "stocks": [
+      {
+        "stock_name": "云煤能源",
+        "stock_code": "600792",
+        "reason": "煤炭板块午后涨停，山西炼焦煤矿停产75座致供给收缩，量能放大+突破年线，短线情绪与基本面共振",
+        "buy_price_range": "4.2-4.4",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 4.0,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "政策执行节奏不明，焦煤价格短期波动大",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "吉鑫科技",
+        "stock_code": "601200",
+        "reason": "风电设备板块异动涨停，直接受益德国海上风电法案延长运营期至35年，放量突破下降通道，MACD金叉",
+        "buy_price_range": "4.8-5.0",
+        "take_profit_pct": 7.0,
+        "stop_loss_pct": 4.0,
+        "expected_days": "2-4天",
+        "risk_level": "中",
+        "risk_note": "海外政策落地存变数，出口订单验证需时间",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "光迅科技",
+        "stock_code": "002281",
+        "reason": "龙虎榜净买入+AI基建光通讯热点，机构提及百亿美金新赛道，样品试样阶段具事件催化，量比>2.5",
+        "buy_price_range": "28.5-29.2",
+        "take_profit_pct": 8.0,
+        "stop_loss_pct": 5.0,
+        "expected_days": "2-3天",
+        "risk_level": "高",
+        "risk_note": "样品阶段未量产，短期纯题材驱动波动剧烈",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "上汽集团",
+        "stock_code": "600104",
+        "reason": "豆包座舱助手首发合作方，荣威家越07开启预售，智能汽车AI交互核心标的，今日放量阳线站上20日均线",
+        "buy_price_range": "17.3-17.6",
+        "take_profit_pct": 5.0,
+        "stop_loss_pct": 3.0,
+        "expected_days": "1-2天",
+        "risk_level": "中",
+        "risk_note": "整车股弹性弱于零部件，需观察预售数据反馈",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "澳弘电子",
+        "stock_code": "605058",
+        "reason": "4连板龙头，PCB+AI服务器配套逻辑，龙虎榜显示一线游资主导，换手充分且未明显分歧，量价健康",
+        "buy_price_range": "24.8-25.3",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 5.0,
+        "expected_days": "1-2天",
+        "risk_level": "高",
+        "risk_note": "高位连板监管风险上升，次日若缩量加速易引发核按钮",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "锡华科技",
+        "stock_code": "603248",
+        "reason": "2连板教育信息化+AI硬件标的，叠加澳洲留学政策收紧预期（间接利好国内职教/语言培训IT化），分时强势回封",
+        "buy_price_range": "13.6-14.0",
+        "take_profit_pct": 5.0,
+        "stop_loss_pct": 4.0,
+        "expected_days": "1-2天",
+        "risk_level": "中",
+        "risk_note": "消息源模糊，政策影响路径较长，纯情绪博弈",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "北自科技",
+        "stock_code": "603082",
+        "reason": "2连板机器人+智能制造，龙虎榜机构席位现身，叠加华为昇腾生态合作传闻发酵，突破平台压力位",
+        "buy_price_range": "26.4-26.9",
+        "take_profit_pct": 7.0,
+        "stop_loss_pct": 4.0,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "机器人板块轮动快，需警惕高位滞涨分化",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "中晶科技",
+        "stock_code": "003026",
+        "reason": "2连板半导体硅片+国产替代，近期量能持续温和放大，站稳60日均线，受益AI算力基建上游材料需求",
+        "buy_price_range": "32.0-32.6",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 4.0,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "硅片价格承压，业绩兑现度需Q3财报验证",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "通鼎互联",
+        "stock_code": "002491",
+        "reason": "龙虎榜上榜+光通讯+算力基建双概念，近期连续3日量比>1.8，MACD柱状体翻红，技术面启动信号明确",
+        "buy_price_range": "5.1-5.3",
+        "take_profit_pct": 7.0,
+        "stop_loss_pct": 4.0,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "市值小弹性大，但股东质押率偏高需留意",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "华瓷股份",
+        "stock_code": "001216",
+        "reason": "2连板+龙虎榜双上榜，主营电子陶瓷器件，深度绑定华为/比亚迪等客户，放量突破前高，资金认可度高",
+        "buy_price_range": "22.5-23.0",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 4.0,
+        "expected_days": "1-2天",
+        "risk_level": "中",
+        "risk_note": "次新股波动大，若次日低开无承接则快速退潮",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      }
+    ]
   }
 ]
