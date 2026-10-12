@@ -2669,5 +2669,202 @@
         "next_day_close": null
       }
     ]
+  },
+  {
+    "date": "2026-10-12",
+    "stocks": [
+      {
+        "stock_name": "博纳影业",
+        "stock_code": "001330",
+        "reason": "影视传媒板块强势，2连板+龙虎榜机构净买入，量能放大，突破年线",
+        "buy_price_range": "11.8-12.3",
+        "take_profit_pct": 7.0,
+        "stop_loss_pct": 4.0,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "板块持续性存疑，需防高位分歧",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "吉视传媒",
+        "stock_code": "601929",
+        "reason": "传媒板块核心标的，回封涨停走出2连板，资金聚焦政策催化题材",
+        "buy_price_range": "2.45-2.52",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 3.5,
+        "expected_days": "1-2天",
+        "risk_level": "中",
+        "risk_note": "市值小弹性大，但流动性偏弱",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "金冠电气",
+        "stock_code": "688517",
+        "reason": "储能概念20CM涨停，量能倍增，站上5日均线，资金逆势抢筹",
+        "buy_price_range": "24.6-25.2",
+        "take_profit_pct": 8.0,
+        "stop_loss_pct": 5.0,
+        "expected_days": "2-3天",
+        "risk_level": "高",
+        "risk_note": "次新股波动剧烈，需严格盯盘止损",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "首航新能",
+        "stock_code": "301302",
+        "reason": "储能+光伏逆变器新势力，20CM涨停，龙虎榜显示一线游资主导，技术面放量突破平台",
+        "buy_price_range": "38.4-39.1",
+        "take_profit_pct": 7.5,
+        "stop_loss_pct": 4.5,
+        "expected_days": "2-3天",
+        "risk_level": "高",
+        "risk_note": "创业板次新，换手率超40%，短期过热",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "天顺风能",
+        "stock_code": "002531",
+        "reason": "风电设备龙头涨停，受益于绿电政策预期+低位放量突破，北向近期小幅回补",
+        "buy_price_range": "10.2-10.6",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 3.5,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "大盘缩量环境下题材股持续性待验证",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "新华文轩",
+        "stock_code": "601811",
+        "reason": "出版传媒+教育AI概念，首板涨停且为板块中军，量比2.3，分时抗跌性强",
+        "buy_price_range": "14.7-15.1",
+        "take_profit_pct": 5.5,
+        "stop_loss_pct": 3.0,
+        "expected_days": "1-2天",
+        "risk_level": "低",
+        "risk_note": "估值低位+高股息，防御性较强",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "低",
+        "position_suggestion": "单只不超过总仓位 15%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "三柏硕",
+        "stock_code": "001300",
+        "reason": "龙虎榜上榜+2连板，体育消费+跨境电商逻辑，换手充分，5日线上穿10日线",
+        "buy_price_range": "22.8-23.4",
+        "take_profit_pct": 6.5,
+        "stop_loss_pct": 4.0,
+        "expected_days": "1-3天",
+        "risk_level": "中",
+        "risk_note": "题材热度依赖假期消费数据兑现",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "楚环科技",
+        "stock_code": "001336",
+        "reason": "环保+固废处理龙虎榜上榜，2连板，量能温和放大，技术面突破下降通道",
+        "buy_price_range": "31.5-32.2",
+        "take_profit_pct": 6.0,
+        "stop_loss_pct": 3.5,
+        "expected_days": "2-3天",
+        "risk_level": "中",
+        "risk_note": "小市值环保股，易受政策消息扰动",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "中",
+        "position_suggestion": "单只不超过总仓位 10%",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "九阳股份",
+        "stock_code": "002242",
+        "reason": "家电+健康厨房龙头，5连板+龙虎榜机构席位，量价配合良好，MACD金叉",
+        "buy_price_range": "15.3-15.8",
+        "take_profit_pct": 5.0,
+        "stop_loss_pct": 3.0,
+        "expected_days": "1-2天",
+        "risk_level": "低",
+        "risk_note": "消费蓝筹属性强，但连板高度或受限",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "低",
+        "position_suggestion": "单只不超过总仓位 15%",
+        "kline_7d_base64": "",
+        "consecutive_days": 2,
+        "next_day_close": null
+      },
+      {
+        "stock_name": "紫竹高科",
+        "stock_code": "002058",
+        "reason": "半导体材料+国产替代逻辑，4连板+龙虎榜活跃席位，突破年线压力位",
+        "buy_price_range": "8.9-9.3",
+        "take_profit_pct": 7.0,
+        "stop_loss_pct": 4.5,
+        "expected_days": "2-3天",
+        "risk_level": "高",
+        "risk_note": "半导体板块整体承压，需警惕板块轮动风险",
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "consecutive_days": 2,
+        "next_day_close": null
+      }
+    ]
   }
 ]
