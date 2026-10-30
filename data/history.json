@@ -2866,5 +2866,210 @@
         "next_day_close": null
       }
     ]
+  },
+  {
+    "date": "2026-10-30",
+    "stocks": [
+      {
+        "stock_name": "青岛食品",
+        "stock_code": "001219",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "光洋股份",
+        "stock_code": "002708",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "山东矿机",
+        "stock_code": "002526",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "实丰文化",
+        "stock_code": "002862",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "东贝集团",
+        "stock_code": "601956",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "爱建集团",
+        "stock_code": "600643",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "联明股份",
+        "stock_code": "603006",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "文投控股",
+        "stock_code": "600715",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "龙溪股份",
+        "stock_code": "600592",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      },
+      {
+        "stock_name": "中远海特",
+        "stock_code": "600428",
+        "reason": "补充：来自涨停/龙虎榜池，未经 LLM 筛选，仅供参考",
+        "buy_price_range": null,
+        "take_profit_pct": null,
+        "stop_loss_pct": null,
+        "expected_days": null,
+        "risk_level": "高",
+        "risk_note": "由系统补充，未经 LLM 分析，需人工核验",
+        "is_supplement": true,
+        "technical_snapshot": {},
+        "extra_warnings": [
+          "技术数据缺失，无法进行交叉验证"
+        ],
+        "effective_risk_level": "高",
+        "position_suggestion": "单只不超过总仓位 5%，或观望不参与",
+        "kline_7d_base64": "",
+        "next_day_close": null
+      }
+    ]
   }
 ]
